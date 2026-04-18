@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="News 24" tvg-logo="https://via.placeholder.com/150/0000FF/FFFFFF?text=News+24",News 24
+#EXTINF:-1 tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/news24.png",News 24
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
 #EXTINF:-1 tvg-name="Movie Plus" tvg-logo="https://via.placeholder.com/150/FF0000/FFFFFF?text=Movie+Plus",Movie Plus
@@ -9,7 +9,7 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream
 #EXTINF:-1 tvg-name="Sport Live" tvg-logo="https://via.placeholder.com/150/00FF00/FFFFFF?text=Sport+Live",Sport Live
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
-#EXTINF:-1 tvg-name="Kids World" tvg-logo="https://via.placeholder.com/150/FFFF00/000000?text=Kids+World",Kids World
+#EXTINF:-1 tvg-name="Kids World" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/kidsworld.png",Kids World
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
 
 #EXTINF:-1 tvg-name="Music Hits" tvg-logo="https://via.placeholder.com/150/FF00FF/FFFFFF?text=Music+Hits",Music Hits
@@ -21,5 +21,5 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscap
 #EXTINF:-1 tvg-name="Tech Vision" tvg-logo="https://via.placeholder.com/150/000000/FFFFFF?text=Tech+Vision",Tech Vision
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
 
-#EXTINF:-1 tvg-name="Travel Now" tvg-logo="https://via.placeholder.com/150/FFA500/FFFFFF?text=Travel+Now",Travel Now
+#EXTINF:-1 tvg-name="Travel Now" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/travelnow.png",Travel Now
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
