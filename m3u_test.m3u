@@ -6,6 +6,9 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m
 #EXTINF:-1 group-title="USA" tvg-name="Movie Plus" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/movieplus.png",Movie Plus
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
+#EXTINF:-1 group-title="USA" tvg-name="Travel Now" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/travelnow.png",Travel Now
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
+
 #EXTINF:-1 group-title="USA" tvg-name="Sport Live" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/sportlive.png",Sport Live
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
@@ -20,9 +23,6 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscap
 
 #EXTINF:-1 group-title="USA" tvg-name="Tech Vision" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/techvision.png",Tech Vision
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
-
-#EXTINF:-1 group-title="USA" tvg-name="Travel Now" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/travelnow.png",Travel Now
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4
 
 #EXTINF:-1 group-title="Australia" tvg-name="Australia Demo",Australia Demo
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
