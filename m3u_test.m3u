@@ -3,22 +3,22 @@
 #EXTINF:-1 group-title="USA" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/news24.png",News 24
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 
-#EXTINF:-1 group-title="USA" tvg-name="Movie Plus",Movie Plus
+#EXTINF:-1 group-title="USA" tvg-name="Movie Plus" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/movieplus.png",Movie Plus
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 
-#EXTINF:-1 group-title="USA" tvg-name="Sport Live",Sport Live
+#EXTINF:-1 group-title="USA" tvg-name="Sport Live" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/sportlive.png",Sport Live
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
 
 #EXTINF:-1 group-title="USA" tvg-name="Kids World" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/kidsworld.png",Kids World
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
 
-#EXTINF:-1 group-title="USA" tvg-name="Music Hits",Music Hits
+#EXTINF:-1 group-title="USA" tvg-name="Music Hits" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/musichits.png",Music Hits
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
 
-#EXTINF:-1 group-title="USA" tvg-name="Nature TV",Nature TV
+#EXTINF:-1 group-title="USA" tvg-name="Nature TV" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/naturetv.png",Nature TV
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
 
-#EXTINF:-1 group-title="USA" tvg-name="Tech Vision",Tech Vision
+#EXTINF:-1 group-title="USA" tvg-name="Tech Vision" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/techvision.png",Tech Vision
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
 
 #EXTINF:-1 group-title="USA" tvg-name="Travel Now" tvg-logo="https://raw.githubusercontent.com/mobileappsdevco/iptv-player/main/logos/travelnow.png",Travel Now
